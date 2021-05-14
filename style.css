@@ -1,0 +1,15 @@
+html, body {
+    background: url("https://th.bing.com/th/id/R43c9879722aa2ac857004eddf562f910?rik=LvW%2bKLmvSYWPBw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fFree-solid-color-orange-wallpaper-download.jpg&ehk=eu3ZkYWLd8LjypYi0O9EfCFsjkc3yMfXV1cr0B1XRiU%3d&risl=&pid=ImgRaw");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+ }
+ /* canvas {
+    display: block;
+} */
+h1 {
+  text-align: center;
+  color: rgb(238, 255, 0);
+  font-family:"Bungee Shade";
+  font-size: 40px;
+}
